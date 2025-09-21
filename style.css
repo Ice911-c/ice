@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('https://www.google.com/imgres?q=ice&imgurl=https%3A%2F%2Ffondationtaraocean.org%2Fapp%2Fuploads%2F2025%2F08%2Fbanquise-arctique-maeva-bardy-fondation-tara-ocean.jpg&imgrefurl=https%3A%2F%2Ffondationtaraocean.org%2Fen%2Fpolar%2Fice-floe-sentinel-of-the-poles-and-key-indicator-of-climate-change%2F&docid=C0TOBqoDHD1yfM&tbnid=TCEXfABXAO1a5M&vet=12ahUKEwj41Y2rhuqPAxXPg_0HHfGqKncQM3oECBwQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwj41Y2rhuqPAxXPg_0HHfGqKncQM3oECBwQAA') 
+              no-repeat center center/cover;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  padding: 20px;
+  background: rgba(0,0,0,0.4);
+  border-radius: 10px;
+}
